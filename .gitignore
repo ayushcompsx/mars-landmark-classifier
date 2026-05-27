@@ -1,0 +1,9 @@
+map-proj-v3/
+labels-map-proj-v3.txt
+*.h5
+*.keras
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+venv/
